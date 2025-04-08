@@ -87,7 +87,6 @@ class WelcomeViewController: UIViewController {
             self.welcomeLabel.text = "\(id)님 반가워요"
         }
         
-     
     }
     
     
